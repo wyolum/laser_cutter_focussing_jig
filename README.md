@@ -8,7 +8,7 @@ simple laser cut jig to allow quick and precise adjustment of laser cutter bed h
 
 ## Video
 [![Watch the video]
-(https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/IMG_VID_20241227_193202.png)]
+(https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/VID_GIF_20241227_193202.gif)]
 (https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/VID_20241227_193202.mp4)
 
 
