@@ -7,7 +7,9 @@ simple laser cut jig to allow quick and precise adjustment of laser cutter bed h
 - FreeCAD file edited to suit my requirements based on a design provided by Morgan Wable of HackPGH in Pittsburgh
 
 ## Video
-https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/VID_20241227_193202.mp4
+[![Watch the video]
+(https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/IMG_VID_20241227_193202.png)]
+(https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/VID_20241227_193202.mp4)
 
 
 ## Renders
