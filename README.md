@@ -7,30 +7,30 @@ simple laser cut jig to allow quick and precise adjustment of laser cutter bed h
 - FreeCAD file edited to suit my requirements based on a design provided by Morgan Wable of HackPGH in Pittsburgh
 
 ## Video
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/photos/VID_20241227_193202.mp4)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/VID_20241227_193202.mp4)
 
 
 ## Renders
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/renders/focusing_jig_01.png)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/renders/focusing_jig_01.png)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/renders/focusing_jig_02.png)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/renders/focusing_jig_02.png)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/renders/focusing_jig_03.png)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/renders/focusing_jig_03.png)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/renders/focusing_jig_04.png)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/renders/focusing_jig_04.png)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/renders/focusing_jig_05.png)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/renders/focusing_jig_05.png)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/renders/focusing_jig_06.png)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/renders/focusing_jig_06.png)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/photos/IMG_20241227_193103.jpg)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/IMG_20241227_193103.jpg)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/photos/IMG_20241227_193132.jpg)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/IMG_20241227_193132.jpg)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/photos/IMG_20241227_193137.jpg)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/IMG_20241227_193137.jpg)
 
-![Focusing Jig](https://github.com/wyolum/focusing_jig/blob/main/photos/IMG_20241227_193143.jpg)
+![Focusing Jig](https://github.com/wyolum/laser_cutter_focussing_jig/blob/main/photos/IMG_20241227_193143.jpg)
 
 
 License
